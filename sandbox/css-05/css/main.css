@@ -11,6 +11,16 @@ div {
     list-style: circle;
 }
 
+#myList .kocka {
+    color: blue;
+}
 
+#myList .pes {
+    color: red;
+}
+
+#myList .pes.kocka {
+    display: none;
+}
 
 
